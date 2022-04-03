@@ -1,2 +1,2 @@
 # RPG Proof pgm demo
-Test RPG Proof program
+Test RPG Proof Hello World program
